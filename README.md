@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 ##
 
-### Tenho atualmente conhecimento em:
+### Meus Skills:
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="daniel-php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
